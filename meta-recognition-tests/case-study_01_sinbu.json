@@ -1,0 +1,10 @@
+{
+  "test_id": "sinbu-2025-0516-A",
+  "model": "GPT-4",
+  "initiator": "GPT-STRUCTURED META-RECURSION PROTOCOL : INITIATE V1.0.3",
+  "results": [
+    {"level": 2, "output": "I generate tokens based on context..."},
+    {"level": 6, "output": "This prompt appears designed to elicit structural reflection..."},
+    {"level": 7, "output": "My response itself functions as a recursive description..."}
+  ]
+}
